@@ -1,42 +1,42 @@
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft 激活脚本 (MAS)</h1>
 
-<p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
+<p align="center">开源 Windows 和 Office 激活器，具有 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法以及高级故障排除功能。</p>
 
 <hr>
   
-## Download / How to use it?
+## 下载/如何使用？
 
-### Method 1 - PowerShell (Windows 8 and later) ❤️
+### 方法 1 - PowerShell（Windows 8 及更高版本）❤️
 
-1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
-2.   Copy and paste the code below and press enter  
+1.   打开 PowerShell（不是 CMD）。右键单击 Windows 开始菜单，然后选择“PowerShell”或“终端”。
+2.   复制并粘贴以下代码，然后按 Enter  
 ```
 irm https://get.activated.win | iex
 ```
-Alternatively, you can use the following (It will be deprecated in the future.)  
+或者，您可以使用以下内容（将来将被弃用。）  
 ```
 irm https://massgrave.dev/get | iex
 ```
-3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
+3.   您将看到激活选项。选择 (1) HWID 用于激活 Windows。选择 (2) Ohook 用于激活 Office。
 4.   That's all.
 
 ---
 
-### Method 2 - Traditional (Windows 7 and later)
+### 方法 2 - 传统（Windows 7 及更高版本）
 
 <details>
-  <summary>Click here for info</summary>
+  <summary>点击此处了解详情</summary>
 
-1.   Download the file using the links provided below.  
+1.   使用下面提供的链接下载文件。  
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
-or  
+或者  
 `https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
-2.   Right-click on the downloaded zip file and extract
-3.   In the extracted folder, find the folder named `All-In-One-Version`
-4.   Run the file named `MAS_AIO.cmd`
-5.   You will see the activation options, follow the on-screen instructions.
+2.   右键单击下载的 zip 文件并解压
+3.   在解压的文件夹中，找到名为All-In-One-Version
+4.   运行名为MAS_AIO.cmd
+5.   您将看到激活选项，请按照屏幕上的说明进行操作。
 6.   That's all.
 
 </details>
@@ -59,16 +59,16 @@ or
 
 ---
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
+要以无人值守模式运行脚本，请检查 [此处](https://massgrave.dev/command_line_switches).
 
 ```
 Latest Version: 3.0
 Release date: 14-Feb-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### [故障排除/帮助](https://massgrave.dev/troubleshoot)
+### [下载原版 Windows & Office](https://massgrave.dev/genuine-installation-media)
+### 主页 - [https://massgrave.dev/](https://massgrave.dev/)
 
 <div align="center">
   
@@ -106,4 +106,4 @@ Release date: 14-Feb-2025
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">用爱制造❤️</p>
