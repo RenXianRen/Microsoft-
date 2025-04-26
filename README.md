@@ -51,7 +51,7 @@ irm https://massgrave.dev/get | iex
 
 ---
 
-> [!NOTE]
+> [!笔记]
 >
 > - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
 > - Always double-check the URL before executing the command and verify the source if manually downloading files.
