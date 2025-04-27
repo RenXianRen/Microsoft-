@@ -51,11 +51,11 @@ irm https://massgrave.dev/get | iex
 
 ---
 
-> [!笔记]
+> [! 注意]
 >
-> - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
-> - Always double-check the URL before executing the command and verify the source if manually downloading files.
-> - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
+> - PowerShell 中的 IRM 命令从指定的 URL 下载脚本，而 IEX 命令执行它。
+> - 在执行命令之前始终检查 URL，并在手动下载文件时验证来源。
+> - 请注意，一些恶意软件伪装成 MAS，通过在 IRM 命令中使用不同的 URL 来传播。
 
 ---
 
